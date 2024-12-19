@@ -27,9 +27,9 @@ This project focuses on identifying anomalies in healthcare provider data using 
   - *DBSCAN*
   - *One-Class SVM*  
 - Hyperparameter Tuning:
-  - *Grid Search with GridSearchCV
-  - *Randomized Search
-  - *Optimization using Optuna
+  - *Grid Search with GridSearchCV*
+  - *Randomized Search*
+  - *Optimization using Optuna*
 - Evaluated models using:
   - *Silhouette Score*
   - *Calinski-Harabasz Score*
