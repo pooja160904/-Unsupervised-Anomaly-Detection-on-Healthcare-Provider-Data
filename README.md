@@ -14,7 +14,6 @@ This project focuses on identifying anomalies in healthcare provider data using 
 - Encoded categorical columns using:
   - *One-Hot Encoding*
   - *Frequency Encoding*
-  - *Target Encoding*
 
 ### 2. *Outlier Removal*
 - Experimented with:
