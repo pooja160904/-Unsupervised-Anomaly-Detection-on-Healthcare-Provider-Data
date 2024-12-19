@@ -25,8 +25,8 @@ This project focuses on identifying anomalies in healthcare provider data using 
 - Applied multiple anomaly detection techniques:
   - *Isolation Forest* (best-performing model)
   - *DBSCAN*
-  - *One-Class SVM*
--Hyperparameter Tuning:
+  - *One-Class SVM*  
+- Hyperparameter Tuning:
   - *Grid Search with GridSearchCV
   - *Randomized Search
   - *Optimization using Optuna
